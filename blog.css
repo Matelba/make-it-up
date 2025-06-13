@@ -29,6 +29,9 @@ a{
 a:hover{
     color: blue;
 }
+h2{
+    text-align: center;
+}
 .section{
     background-color: #14C6CD
 }
@@ -52,3 +55,22 @@ a:hover{
     width: 70%;text-align: center;background-image: url(https://i.pinimg.com/736x/0a/c2/24/0ac22477b44745beb546bf320fdeb909.jpg);background-size: cover;margin-left: 10%;
 }
 
+
+.section3{
+    background-color: #077479;
+}
+.s3div1{
+    display: flex;justify-content: space-around;
+}
+.s3div2{
+    background-color: white;width: 20%;text-align: center;
+}
+footer{
+    background-color: #012c2e;color: white;
+}
+.icone{
+    text-align: center;cursor: pointer;
+}
+i:hover{
+    color: #077479;
+}
