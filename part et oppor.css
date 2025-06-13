@@ -29,6 +29,9 @@ a{
 a:hover{
     color: blue;
 }
+.fa-duotone{
+    color: white;font-size: 90px;margin-left: 40%;
+}
 h2{
     text-align: center;
 }

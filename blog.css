@@ -45,7 +45,8 @@ h2{
     width: 15%;border-radius: 15px;height: 10vh; color: white;
     background-color: #077479;align-items: center;
     font-size: 10px;cursor: pointer;display: flex;
-    justify-content: space-around;margin-left: 45%;
+    justify-content: space-around;
+    margin-left: 45%;border: 0;
 }
 .section2{
     background-color: #034F52;

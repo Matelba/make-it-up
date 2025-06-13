@@ -39,7 +39,7 @@ a:hover{
 background-color: white;width: 20%;
 }
 .section3{
-    background-color: #034F52;text-align: center;
+    background-color: #034F52;text-align: center; color: white;
 }
 .s3div0{
 display: flex;justify-content: space-around;

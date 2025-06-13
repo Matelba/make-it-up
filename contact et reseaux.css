@@ -33,7 +33,7 @@ h2{
     text-align: center;
 }
 .section3{
-    background-color: #034F52;
+    background-color: #034F52;color: white;
 }
 .s3div0{
 display: flex;justify-content: space-around;
@@ -44,7 +44,8 @@ display: flex;justify-content: space-around;
 .button3{
     width: 15%;height: 10vh;border-radius: 15px;
     font-size: 10px;color: white;
-    background-color: #14C6CD;cursor: pointer;margin-left: 40%;
+    background-color: #14C6CD;cursor: pointer;
+    margin-left: 40%;border: 0;
 }
 .section2{
     background-color: #14C6CD;
@@ -53,13 +54,16 @@ display: flex;justify-content: space-around;
  margin-left: 39%;
 }
 .section1{
-    background-color: #034F52;text-align: center;
+    background-color: #077479;text-align: center;
 }
 .s1div1{
     display: flex;justify-content: space-around;
 }
 footer{
     background-color: #012c2e;color: white;
+}
+i{
+    color: white;
 }
 .icone{
     text-align: center;cursor: pointer;

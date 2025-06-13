@@ -51,7 +51,8 @@ h5{
     width: 10%;border-radius: 15px;height: 10vh; color: white;
     background-color: #077479;align-items: center;
     font-size: 10px;cursor: pointer;display: flex;
-    justify-content: space-around;margin-left: 45%;
+    justify-content: space-around;
+    margin-left: 45%;border: 0;
 }
 .section3{
     background-color: #077479;color: white;
@@ -62,12 +63,14 @@ h5{
 .button2{
     width: 10%;height: 10vh;border-radius: 15px;
     font-size: 10px;color: white;
-    background-color: #14C6CD;cursor: pointer;margin-left: 25%;
+    background-color: #14C6CD;cursor: pointer;
+    margin-left: 25%;border: 0;
 }
 .button3{
     width: 10%;height: 10vh;border-radius: 15px;
     font-size: 10px;color: white;
-    background-color: #14C6CD;cursor: pointer;margin-left: 25%;
+    background-color: #14C6CD;cursor: pointer;
+    margin-left: 25%;border: 0;
 }
 footer{
     background-color: #012c2e;color: white;
